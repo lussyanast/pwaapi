@@ -19,16 +19,6 @@
     {"id":17,"name":"Superb starling","color":"Purple"},
     {"id":18,"name":"Fox, arctic","color":"Pink"},
     {"id":19,"name":"Gerenuk","color":"Violet"},
-    {"id":20,"name":"Insect, stick","color":"Green"},
-    {"id":21,"name":"Coatimundi, ring-tailed","color":"Green"},
-    {"id":22,"name":"Western spotted skunk","color":"Red"},
-    {"id":23,"name":"Mandras tree shrew","color":"Puce"},
-    {"id":24,"name":"Eagle, pallas's fish","color":"Orange"},
-    {"id":25,"name":"Water legaan","color":"Turquoise"},
-    {"id":26,"name":"Kiskadee, great","color":"Pink"},
-    {"id":27,"name":"Glossy starling (unidentified)","color":"Puce"},
-    {"id":28,"name":"Magellanic penguin","color":"Khaki"},
-    {"id":29,"name":"Macaw, red and blue","color":"Teal"},
-    {"id":30,"name":"Hornbill, yellow-billed","color":"Maroon"}
+    {"id":20,"name":"Insect, stick","color":"Green"}
   ]
 }
