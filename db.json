@@ -29,26 +29,6 @@
     {"id":27,"name":"Glossy starling (unidentified)","color":"Puce"},
     {"id":28,"name":"Magellanic penguin","color":"Khaki"},
     {"id":29,"name":"Macaw, red and blue","color":"Teal"},
-    {"id":30,"name":"Hornbill, yellow-billed","color":"Maroon"},
-    {"id":31,"name":"Osprey","color":"Blue"},
-    {"id":32,"name":"Great egret","color":"Violet"},
-    {"id":33,"name":"Openbill stork","color":"Violet"},
-    {"id":34,"name":"Macaw, blue and gold","color":"Pink"},
-    {"id":35,"name":"Sugar glider","color":"Blue"},
-    {"id":36,"name":"Southern tamandua","color":"Mauv"},
-    {"id":37,"name":"Gull, swallow-tail","color":"Purple"},
-    {"id":38,"name":"Vulture, griffon","color":"Turquoise"},
-    {"id":39,"name":"Cat, native","color":"Fuscia"},
-    {"id":40,"name":"Black and white colobus","color":"Fuscia"},
-    {"id":41,"name":"Southern right whale","color":"Aquamarine"},
-    {"id":42,"name":"Western bearded dragon","color":"Goldenrod"},
-    {"id":43,"name":"Dragon, frilled","color":"Green"},
-    {"id":44,"name":"Four-horned antelope","color":"Goldenrod"},
-    {"id":45,"name":"Frogmouth, tawny","color":"Goldenrod"},
-    {"id":46,"name":"White-winged black tern","color":"Fuscia"},
-    {"id":47,"name":"Lemur, brown","color":"Yellow"},
-    {"id":48,"name":"Antelope ground squirrel","color":"Yellow"},
-    {"id":49,"name":"Macaque, japanese","color":"Violet"},
-    {"id":50,"name":"Bird, bare-faced go away","color":"Yellow"}
+    {"id":30,"name":"Hornbill, yellow-billed","color":"Maroon"}
   ]
 }
